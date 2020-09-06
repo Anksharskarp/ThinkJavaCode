@@ -1,3 +1,5 @@
+package com.ch02;
+
 /**
  * Examples from Chapter 2.
  */
